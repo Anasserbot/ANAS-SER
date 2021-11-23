@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="https://fontmeme.com/permalink/210920/" alt="" border="0"></a>
 <div align="center">
         <img src="ANAS.jpg" alt="IMG" width="250" height="200"/>
 </p>
