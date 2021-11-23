@@ -41,7 +41,7 @@ Project created by <a href="https://github.com/ANAS SER">ANAS SER</a> to make it
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANAS SER&show_icons=true&theme=dark&locale=en" alt="ANAS SER" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANAS SER&theme=dark" alt="ANAS SER" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANASSER&theme=dark" alt="ANASSER" /></p>
 </p>
 
 
@@ -68,9 +68,9 @@ Click ANAS SER logo to any problems wa me👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ANAS SERcreator/ANAS SER-QR)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ANASSERcreator/ANASSER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANAS SER/ANAS SER.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANASSER/ANASSER.git)
      </div>
 <br>
 <br >
